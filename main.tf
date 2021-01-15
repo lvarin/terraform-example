@@ -1,7 +1,7 @@
 # Variables
 variable "keypair" {
   type    = string
-  default = ""   # name of keypair created 
+  default = "XXXXX"   # name of keypair that will have access to the VM 
 }
 
 variable "network" {
